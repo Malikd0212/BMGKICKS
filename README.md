@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BMGKICKS
 =======
 # E-Commerce
